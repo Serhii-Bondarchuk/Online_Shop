@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Online_Shop/static/css/main.2606c415.chunk.css",
+    "main.js": "/Online_Shop/static/js/main.36c95787.chunk.js",
+    "main.js.map": "/Online_Shop/static/js/main.36c95787.chunk.js.map",
+    "runtime-main.js": "/Online_Shop/static/js/runtime-main.5bb57541.js",
+    "runtime-main.js.map": "/Online_Shop/static/js/runtime-main.5bb57541.js.map",
+    "static/js/2.07e3c4cc.chunk.js": "/Online_Shop/static/js/2.07e3c4cc.chunk.js",
+    "static/js/2.07e3c4cc.chunk.js.map": "/Online_Shop/static/js/2.07e3c4cc.chunk.js.map",
+    "static/js/3.fe9ddffa.chunk.js": "/Online_Shop/static/js/3.fe9ddffa.chunk.js",
+    "static/js/3.fe9ddffa.chunk.js.map": "/Online_Shop/static/js/3.fe9ddffa.chunk.js.map",
+    "index.html": "/Online_Shop/index.html",
+    "static/css/main.2606c415.chunk.css.map": "/Online_Shop/static/css/main.2606c415.chunk.css.map",
+    "static/js/2.07e3c4cc.chunk.js.LICENSE.txt": "/Online_Shop/static/js/2.07e3c4cc.chunk.js.LICENSE.txt",
+    "static/media/dvd.60f756ff.png": "/Online_Shop/static/media/dvd.60f756ff.png",
+    "static/media/nout.76cdfe5d.jpeg": "/Online_Shop/static/media/nout.76cdfe5d.jpeg",
+    "static/media/phone.72b63436.jpg": "/Online_Shop/static/media/phone.72b63436.jpg",
+    "static/media/tv.6051ad76.jpg": "/Online_Shop/static/media/tv.6051ad76.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5bb57541.js",
+    "static/js/2.07e3c4cc.chunk.js",
+    "static/css/main.2606c415.chunk.css",
+    "static/js/main.36c95787.chunk.js"
+  ]
+}
