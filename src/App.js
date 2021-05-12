@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import ProductsContainer from './containers/ProductsContainer'
+import CartContainer from './containers/CartContainer'
+import Carusel from './components/Carusel'
+import Modal from './components/modal/Modal'
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
+const App = () => (
+  <div>
 
-export default App;
+      <Carusel />
+       
+
+    <h2 style = {{ textAlign: 'center', marginBottom: '50px' }} > Online Shopping from Store</h2>
+     <div className= 'container'> 
+    <h3 className ='my' >  created by Serhii Bondarchuk </h3>
+    <p className= 'my' 
+     style = {{   marginBottom: '50px' }}   
+
+      >amax9111@gmail.com  </p>    
+      </div>
+    <ProductsContainer />
+    <br/><hr/>
+       <CartContainer />
+  </div>
+)
+
+export default App
