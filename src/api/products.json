@@ -1,5 +1,5 @@
 [
-  {"id": 1, "title": "TVsssssssssssssg", "price": 1500.01, "inventory": 20},
+  {"id": 1, "title": "TV", "price": 1500.01, "inventory": 20},
   {"id": 2, "title": "Phones", "price": 310.99, "inventory": 10},
   {"id": 3, "title": "Computers", "price": 219.99, "inventory": 5},
    {"id": 4, "title": "DVD", "price": 5.99, "inventory": 8}
