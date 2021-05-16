@@ -76,8 +76,8 @@ code {
   .media_product span{
      font-size: 15px!important;
   }
-  .cart{
-    font-size: 20px;
+  .cart span {
+    font-size: 16px!important;
   }
 
   .btn-success{
